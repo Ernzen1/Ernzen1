@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there <h1>
 
-<!--
-**Ernzen1/Ernzen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Brazilian guy learning to program.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying Computer Network 🌐
+Portuguese and English Speaker 🇺🇸 🇧🇷 
+Computer Enthusiast since '01 🖥️
+
+Looking for professional replacement as dev! 🔎
+Working as Technical supoort analyst at [intelbras] (https://www.intelbras.com/pt-br/)
+You can find my linkedin [here](https://www.linkedin.com/in/guilhermeernzen/)
+
