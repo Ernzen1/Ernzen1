@@ -6,6 +6,6 @@ Portuguese and English Speaker 🇺🇸 🇧🇷 \
 Computer Enthusiast since '01 🖥️
 
 Looking for professional replacement as a dev! 🔎\
-Currently working as Technical supoort analyst at **[intelbras](https://www.intelbras.com/pt-br/)**\
+Currently working as Support Engineer at **[Axcient](https://axcient.com/)**\
 You can find my linkedin **[here](https://www.linkedin.com/in/guilhermeernzen/)**
 
