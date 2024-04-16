@@ -1,7 +1,5 @@
-## **Just a Brazilian guy learning to program.**
-
-Learning Python and C rn\
-Currently studying Computer Network 🌐\
+Python and C deveoper\
+Currently studying Computer Cience\
 Portuguese and English Speaker 🇺🇸 🇧🇷 \
 Computer Enthusiast since '01 🖥️
 
