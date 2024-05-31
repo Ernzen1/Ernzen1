@@ -1,4 +1,4 @@
-Python and C deveoper\
+Go, Python and C deveoper\
 Currently studying Computer Cience\
 Portuguese and English Speaker 🇺🇸 🇧🇷 \
 Computer Enthusiast since '01 🖥️
